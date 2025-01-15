@@ -1,1 +1,1 @@
-# DACON_electric_power_prediction-LSTM-
+# DACON_electric_power_prediction (LSTM)
